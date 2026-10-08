@@ -15,7 +15,7 @@ from morse_rhythm import morse_rhythm, normalise_text
 # -----------------------------------------------------------------------------
 # PIECE SETTINGS
 # -----------------------------------------------------------------------------
-TEXT = "JESUS VICTORIOUS"
+TEXT = "MY TEXT TO MORSE MUSIC"
 OUTPUT_FILE = Path(__file__).resolve().parent / "melody_morse_02b.mid"
 
 LOW_NOTE = 75
